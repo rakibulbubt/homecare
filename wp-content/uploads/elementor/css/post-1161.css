@@ -2014,7 +2014,7 @@ body.rtl .elementor-1161 .elementor-element.elementor-element-3344219 {
 
 .elementor-1161 .elementor-element.elementor-element-c5e167c:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-1161 .elementor-element.elementor-element-c5e167c>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #74B9E9;
+    background-color: #0fdd42;
 }
 
 .elementor-1161 .elementor-element.elementor-element-c5e167c>.elementor-element-populated,
@@ -2230,7 +2230,7 @@ body.rtl .elementor-1161 .elementor-element.elementor-element-fff8565 {
 
 .elementor-1161 .elementor-element.elementor-element-b24b6e7:not(.elementor-motion-effects-element-type-background),
 .elementor-1161 .elementor-element.elementor-element-b24b6e7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #74B9E9;
+    background-color: #1ce91c;
 }
 
 .elementor-1161 .elementor-element.elementor-element-b24b6e7>.elementor-background-overlay {
@@ -2359,7 +2359,7 @@ body.rtl .elementor-1161 .elementor-element.elementor-element-26e00a5 {
 
 .elementor-1161 .elementor-element.elementor-element-aa01553:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-1161 .elementor-element.elementor-element-aa01553>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #74B9E9;
+    background-color: #1ce91c;
 }
 
 .elementor-1161 .elementor-element.elementor-element-aa01553:hover>.elementor-element-populated {
@@ -2412,7 +2412,7 @@ body.rtl .elementor-1161 .elementor-element.elementor-element-26e00a5 {
 
 .elementor-1161 .elementor-element.elementor-element-044b474:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-1161 .elementor-element.elementor-element-044b474>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #74B9E9;
+    background-color: #1ce91c;
 }
 
 .elementor-1161 .elementor-element.elementor-element-044b474:hover>.elementor-element-populated {
@@ -2465,7 +2465,7 @@ body.rtl .elementor-1161 .elementor-element.elementor-element-26e00a5 {
 
 .elementor-1161 .elementor-element.elementor-element-d3c408f:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-1161 .elementor-element.elementor-element-d3c408f>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #74B9E9;
+    background-color: #1ce91c;
 }
 
 .elementor-1161 .elementor-element.elementor-element-d3c408f:hover>.elementor-element-populated {
@@ -4470,20 +4470,22 @@ body.rtl .elementor-1161 .elementor-element.elementor-element-26e00a5 {
 
 .elementor-1161 .elementor-element.elementor-element-3ed1ca2:not(.elementor-motion-effects-element-type-background),
 .elementor-1161 .elementor-element.elementor-element-3ed1ca2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #74B9E9;
+    background-color: #1ebe4e;
 }
 
 .elementor-1161 .elementor-element.elementor-element-3ed1ca2>.elementor-background-overlay {
-    background-image: url("https://i0.wp.com/bunnyhomecare.com/wp-content/uploads/2023/02/Shape-1.png?fit=212%2C261&ssl=1");
-    background-position: center right;
+    /* background-image: url("https://i0.wp.com/bunnyhomecare.com/wp-content/uploads/2023/02/Shape-1.png?fit=212%2C261&ssl=1"); */
+    background-color: red;
+    /* background-position: center right;
     background-repeat: no-repeat;
     opacity: 0.5;
-    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s; */
 }
 
 .elementor-1161 .elementor-element.elementor-element-3ed1ca2,
 .elementor-1161 .elementor-element.elementor-element-3ed1ca2>.elementor-background-overlay {
     border-radius: 15px 15px 15px 15px;
+    background-color: red;
 }
 
 .elementor-1161 .elementor-element.elementor-element-3ed1ca2 {
